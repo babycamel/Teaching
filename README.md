@@ -1,3 +1,3 @@
 # Teaching
 
-This is where I am starrting to put my teaching files
+This is where I am starting to put my teaching files
